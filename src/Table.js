@@ -1,3 +1,5 @@
+import Row from "./Row";
+
 const Table = ({ items }) => {
   return (
     <div className="table-container">
